@@ -49,7 +49,7 @@
 <a href= "https://www.instagram.com/gideon_lito/)">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/@gamergys20)" >
+<a href="(https://www.tiktok.com/@gamergys20)" >
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
 </a>
 <a href="https://www.twitch.tv/gamergys20)" >
