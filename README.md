@@ -55,7 +55,7 @@
 <a href="https://www.twitch.tv/gamergys20" >
   <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
 </a>
-<a href="https://www.youtube.com/@alvarorivera7745)">
+<a href="https://www.youtube.com/@alvarorivera7745">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">	
 </a>
 
